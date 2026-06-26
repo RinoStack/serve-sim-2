@@ -1,0 +1,10 @@
+{
+  "name": "serve-sim",
+  "version": "1.0.0",
+  "description": "Apple Simulators quick launcher",
+  "bin": {
+    "serve-sim": "./bin/serve-sim"
+  },
+    "build": "tsc"
+    "typescript": "^5.0.0"
+}
